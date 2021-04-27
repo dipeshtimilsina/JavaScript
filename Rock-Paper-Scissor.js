@@ -1,4 +1,4 @@
-//Rock Paper Scissors game (with a hack within ;) 
+//Rock Paper Scissors game (with a hack to always win) 
 
 const getUserChoice= userInput =>{
   userInput= userInput.toLowerCase();
